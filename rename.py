@@ -15,12 +15,15 @@ def filechange(filename):
 
 fileNew=[]
 fileOld=[]
-for filename in os.listdir("."):
-	if filename.startswith("FALLSEM2014-15_"):
-		fileOld.append(filename)
-		newName = filechange(filename)
-		os.rename(filename,newName)
-		fileNew.append(newName)
+
+for dirname, dirnames, filenames in os.walk('.'):
+    for filename in filenames:
+    	way = os.path.join(dirname, filename)
+    	if filename.startswith("FALLSEM2014-15_"):
+    		fileOld.append(filename)
+    		newName = filechange(filename)
+    		os.rename(way,os.path.join(dirname,newName))
+    		fileNew.append(newName)
 
 
 for i in range(len(fileOld)):
