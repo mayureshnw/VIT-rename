@@ -1,0 +1,56 @@
+.
+|-- Faculty1
+|   |-- 14-10-15_chapter19---Neural-network.pdf
+|   |-- 14-10-29_GA-AI-Ch20.ppt
+|   |-- 14-11-06_NLPppt.ppt
+|   |-- 14-7-10_intro.ppt
+|   |-- 14-7-17_agents.ppt
+|   |-- 14-7-23_search.ppt
+|   |-- 14-7-28_m4-heuristics.ppt
+|   |-- 14-8-04_Adversarial-search.ppt
+|   |-- 14-8-13_m13-uncertainty.ppt
+|   |-- 14-9-01_Fuzzyset.ppt
+|   |-- 14-9-08_m7-logic.ppt
+|   |-- 14-9-15_probabilistic-reasoning.doc
+|   |-- 14-9-22_chapter14-Bayesian-Networks.pdf
+|   `-- 14-9-29_NeuralNetworks.ppt
+|-- final.txt
+|-- Faculty2
+|   |-- 14-10-27_ABIS-UNIT-4.pdf
+|   |-- 14-10-29_UNIT-5-ABIS-Part--1.pdf
+|   |-- 14-10-29_UNIT-5-Part-2-ABIS.pdf
+|   |-- 14-7-10_lec01_introduction-definitions.pptx
+|   |-- 14-7-14_ABIS-UNIT-I.pdf
+|   |-- 14-7-16_lec02_history.pptx
+|   |-- 14-7-17_lec03_agents.pptx
+|   |-- 14-7-21_lec04_Problem-Solving-Agents.pptx
+|   |-- 14-7-23_lec05_searching-strategies.pptx
+|   |-- 14-7-24_lec06_Local-search.pptx
+|   |-- 14-7-28_lec08_adversarial_search.pptx
+|   |-- 14-7-30_lec11_logic.pptx
+|   |-- 14-7-31_lec12_fol.pptx
+|   |-- 14-8-04_ABIS-Unit2.pdf
+|   |-- 14-8-06_lec13_fol_inference.pptx
+|   |-- 14-8-07_ABIS-UNIT-II-Questions-and-Answers.pdf
+|   |-- 14-8-11_Ontological-Representation.pdf
+|   |-- 14-9-01_Planning-Agents.ppt
+|   `-- 14-9-03_ABIS-UNIT-III-Questions-and-Answers.pdf
+|-- initial.txt
+|-- Faculty3
+|   |-- 14-10-13_HighLevelAgents_learning.ppt
+|   |-- 14-10-16_Exercises_DecisionTree.docx
+|   |-- 14-11-05_Communicating-Agents.pptx
+|   |-- 14-7-14_Topic_I.pdf
+|   |-- 14-7-16_Topic_II.pdf
+|   |-- 14-7-17_Topic_III.pdf
+|   |-- 14-7-21_Topic_IV.pdf
+|   |-- 14-7-24_informed_search-Compatibility-Mode.pdf
+|   |-- 14-8-13_ontology101.pdf
+|   |-- 14-8-14_Proposition_FOL.pdf
+|   |-- 14-9-01_Planning_Introduction-Compatibility-Mode.pdf
+|   |-- 14-9-04_Planning-in-the-real-world.pdf
+|   |-- 14-9-11_conditional_planning-Compatibility-Mode.pdf
+|   |-- 14-9-15_Uncertainty-Compatibility-Mode.pdf
+|   `-- 14-9-17_Probabilistic-Reasoning--Belief_Network.pptx
+`-- rename.py
+

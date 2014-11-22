@@ -1,0 +1,55 @@
+.
+|-- Faculty1
+|   |-- FALLSEM2014-15_CP2996_01-Sep-2014_RM01_Fuzzyset.ppt
+|   |-- FALLSEM2014-15_CP2996_04-Aug-2014_RM01_Adversarial-search.ppt
+|   |-- FALLSEM2014-15_CP2996_06-Nov-2014_RM01_NLPppt.ppt
+|   |-- FALLSEM2014-15_CP2996_08-Sep-2014_RM01_m7-logic.ppt
+|   |-- FALLSEM2014-15_CP2996_10-Jul-2014_RM01_intro.ppt
+|   |-- FALLSEM2014-15_CP2996_13-Aug-2014_RM01_m13-uncertainty.ppt
+|   |-- FALLSEM2014-15_CP2996_15-Oct-2014_RM01_chapter19---Neural-network.pdf
+|   |-- FALLSEM2014-15_CP2996_15-Sep-2014_RM01_probabilistic-reasoning.doc
+|   |-- FALLSEM2014-15_CP2996_17-Jul-2014_RM01_agents.ppt
+|   |-- FALLSEM2014-15_CP2996_22-Sep-2014_RM01_chapter14-Bayesian-Networks.pdf
+|   |-- FALLSEM2014-15_CP2996_23-Jul-2014_RM01_search.ppt
+|   |-- FALLSEM2014-15_CP2996_28-Jul-2014_RM01_m4-heuristics.ppt
+|   |-- FALLSEM2014-15_CP2996_29-Oct-2014_RM01_GA-AI-Ch20.ppt
+|   `-- FALLSEM2014-15_CP2996_29-Sep-2014_RM01_NeuralNetworks.ppt
+|-- final.txt
+|-- Faculty2
+|   |-- FALLSEM2014-15_CP2258_01-Sep-2014_RM01_Planning-Agents.ppt
+|   |-- FALLSEM2014-15_CP2258_03-Sep-2014_RM01_ABIS-UNIT-III-Questions-and-Answers.pdf
+|   |-- FALLSEM2014-15_CP2258_04-Aug-2014_RM01_ABIS-Unit2.pdf
+|   |-- FALLSEM2014-15_CP2258_06-Aug-2014_RM01_lec13_fol_inference.pptx
+|   |-- FALLSEM2014-15_CP2258_07-Aug-2014_RM01_ABIS-UNIT-II-Questions-and-Answers.pdf
+|   |-- FALLSEM2014-15_CP2258_10-Jul-2014_RM01_lec01_introduction-definitions.pptx
+|   |-- FALLSEM2014-15_CP2258_11-Aug-2014_RM01_Ontological-Representation.pdf
+|   |-- FALLSEM2014-15_CP2258_14-Jul-2014_RM01_ABIS-UNIT-I.pdf
+|   |-- FALLSEM2014-15_CP2258_16-Jul-2014_RM01_lec02_history.pptx
+|   |-- FALLSEM2014-15_CP2258_17-Jul-2014_RM01_lec03_agents.pptx
+|   |-- FALLSEM2014-15_CP2258_21-Jul-2014_RM01_lec04_Problem-Solving-Agents.pptx
+|   |-- FALLSEM2014-15_CP2258_23-Jul-2014_RM01_lec05_searching-strategies.pptx
+|   |-- FALLSEM2014-15_CP2258_24-Jul-2014_RM01_lec06_Local-search.pptx
+|   |-- FALLSEM2014-15_CP2258_27-Oct-2014_RM01_ABIS-UNIT-4.pdf
+|   |-- FALLSEM2014-15_CP2258_28-Jul-2014_RM01_lec08_adversarial_search.pptx
+|   |-- FALLSEM2014-15_CP2258_29-Oct-2014_RM01_UNIT-5-ABIS-Part--1.pdf
+|   |-- FALLSEM2014-15_CP2258_29-Oct-2014_RM02_UNIT-5-Part-2-ABIS.pdf
+|   |-- FALLSEM2014-15_CP2258_30-Jul-2014_RM01_lec11_logic.pptx
+|   `-- FALLSEM2014-15_CP2258_31-Jul-2014_RM01_lec12_fol.pptx
+|-- initial.txt
+|-- Faculty3
+|   |-- FALLSEM2014-15_CP0001_01-Sep-2014_RM01_Planning_Introduction-Compatibility-Mode.pdf
+|   |-- FALLSEM2014-15_CP0001_04-Sep-2014_RM01_Planning-in-the-real-world.pdf
+|   |-- FALLSEM2014-15_CP0001_05-Nov-2014_RM01_Communicating-Agents.pptx
+|   |-- FALLSEM2014-15_CP0001_11-Sep-2014_RM01_conditional_planning-Compatibility-Mode.pdf
+|   |-- FALLSEM2014-15_CP0001_13-Aug-2014_RM01_ontology101.pdf
+|   |-- FALLSEM2014-15_CP0001_13-Oct-2014_RM01_HighLevelAgents_learning.ppt
+|   |-- FALLSEM2014-15_CP0001_14-Aug-2014_RM01_Proposition_FOL.pdf
+|   |-- FALLSEM2014-15_CP0001_14-Jul-2014_RM01_Topic_I.pdf
+|   |-- FALLSEM2014-15_CP0001_15-Sep-2014_RM01_Uncertainty-Compatibility-Mode.pdf
+|   |-- FALLSEM2014-15_CP0001_16-Jul-2014_RM01_Topic_II.pdf
+|   |-- FALLSEM2014-15_CP0001_16-Oct-2014_RM01_Exercises_DecisionTree.docx
+|   |-- FALLSEM2014-15_CP0001_17-Jul-2014_RM01_Topic_III.pdf
+|   |-- FALLSEM2014-15_CP0001_17-Sep-2014_RM01_Probabilistic-Reasoning--Belief_Network.pptx
+|   |-- FALLSEM2014-15_CP0001_21-Jul-2014_RM01_Topic_IV.pdf
+|   `-- FALLSEM2014-15_CP0001_24-Jul-2014_RM01_informed_search-Compatibility-Mode.pdf
+`-- rename.py
