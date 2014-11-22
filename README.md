@@ -6,7 +6,8 @@ A script that renames all the files downloaded from the VIT studnt course page
 Clone the repo: `git clone https://github.com/Mnw2212/VIT-rename`.
 
 ### Usage
-Run the file 
+Run the file in the master directory containing all folders,files to be renamed.
+Check the example folder to see inital and final 'tree' outputs
 ```python
 python rename.py
 ```
