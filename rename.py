@@ -19,11 +19,14 @@ fileOld=[]
 for dirname, dirnames, filenames in os.walk('.'):
     for filename in filenames:
     	way = os.path.join(dirname, filename)
-    	if filename.startswith("FALLSEM2014-15_"):
-    		fileOld.append(filename)
-    		newName = filechange(filename)
-    		os.rename(way,os.path.join(dirname,newName))
-    		fileNew.append(newName)
+    	if filename.startswith("FALLSEM20") or filename.startswith("WINSEM20"):
+    		try:
+	    		newName = filechange(filename)
+	    		os.rename(way,os.path.join(dirname,newName))
+	    		fileNew.append(newName)
+	    		fileOld.append(filename)
+	    	except:
+	    		print " FileFormat Error : "+ filename
 
 
 for i in range(len(fileOld)):
