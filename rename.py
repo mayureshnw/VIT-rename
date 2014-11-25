@@ -18,10 +18,9 @@ def filechange(filename):
 		date = year+'-'+monthDict[month]+'-'+day
 		sub = name[38:]
 		newName=date+'_'+sub
-		return newName
 	except:
 		newName = name[21:]
-		return newName
+	return newName
 
 
 fileNew=[]
@@ -33,6 +32,7 @@ for dirname, dirnames, filenames in os.walk('.'):
     	if filename.startswith("FALLSEM20") or filename.startswith("WINSEM20"):
     		try:
 	    		newName = filechange(filename)
+	    		way = os.path.join(dirname, filename)
 	    		os.rename(way,os.path.join(dirname,newName))
 	    		fileNew.append(newName)
 	    		fileOld.append(filename)
