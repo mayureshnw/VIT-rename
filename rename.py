@@ -28,7 +28,6 @@ fileOld=[]
 
 for dirname, dirnames, filenames in os.walk('.'):
     for filename in filenames:
-    	way = os.path.join(dirname, filename)
     	if filename.startswith("FALLSEM20") or filename.startswith("WINSEM20"):
     		try:
 	    		newName = filechange(filename)
